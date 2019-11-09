@@ -1,0 +1,8 @@
+kale_Page_230 X. Gender
+kale_Page_231 <span class="section">Masculine words</span>
+kale_Page_232 
+kale_Page_233 <span class="section">Feminine words</span>
+kale_Page_234 <span class="section">Neuter words</span>
+kale_Page_235 <span class="section">Words masculine and feminine</span>
+kale_Page_236 <span class="section">Words masculine and neuter</span>
+kale_Page_237 <span class="section">Words feminine and neuter</span>

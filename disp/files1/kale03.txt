@@ -1,0 +1,83 @@
+kale_Page_046 III. Declension of nouns
+kale_Page_047 
+kale_Page_048 &sect; 57. Normal case terminations
+kale_Page_048 <span class="section">Bases ending in vowels</span>
+kale_Page_049 &sect; 61. Nouns in  <span class="san">a</span>.  <span class="san">rAma</span>  <span class="san">jYAna</span>
+kale_Page_049 &sect; 63. Nouns in <span class="san">A</span>.  <span class="san">gopA</span>
+kale_Page_050 &sect; 65. <span class="san">ramA</span>
+kale_Page_051 &sect; 69. Nouns in  <span class="san">i</span> and <span class="san">u</span>.  <span class="san">hari</span>  <span class="san">mati</span>  <span class="san">guru</span>
+kale_Page_052 <span class="san">Denu</span> <span class="san">vAri</span> 
+kale_Page_053 <span class="san">maDu</span> 
+kale_Page_053 &sect; 70. <span class="san">Suci</span> <span class="san">guru</span> 
+kale_Page_054 &sect; 72. Irregular bases. <span class="san">saKi</span> <span class="san">pati</span>
+kale_Page_055 &sect; 75. Words in  <span class="san">I</span> and <span class="san">U</span>. <span class="san">nadI</span>
+kale_Page_056  <span class="san">vaDU</span>
+kale_Page_056 &sect; 76. Mas. nouns in <span class="san">I</span>. <span class="san">vAtapramI</span>
+kale_Page_057 &sect; 77. Root nouns in <span class="san">I</span> and <span class="san">U</span>.  <span class="san">DI</span> and <span class="san">BU</span>.
+kale_Page_058 <span class="san">praDI</span> and <span class="san">KalapU</span>.
+kale_Page_059 <span class="san">praDI</span>
+kale_Page_060 <span class="san">suDI</span> <span class="san">svaBU</span>
+kale_Page_060 <span class="san">suDi</span>
+kale_Page_061 <span class="san">varzABU</span> &sect; 78. <span class="san">saKI</span>
+kale_Page_062 &sect; 79. <span class="san">strI</span> <span class="san">atistri</span>
+kale_Page_062 &sect; 80. <span class="san">hUhU</span>
+kale_Page_063 &sect; 81. Nouns in  <span class="san">f</span>.  <span class="san">DAtf</span>
+kale_Page_064 &sect; 82. <span class="san">pitf</span>  <span class="san">mAtf</span>
+kale_Page_064 &sect; 83.  <span class="san">krozwu</span>
+kale_Page_065 &sect; 84. Words in <span class="san">F</span> and <span class="san">x</span>
+kale_Page_066 &sect; 85. Words in <span class="san">e</span> and <span class="san">E</span>.  <span class="san">se</span> and <span class="san">rE</span> 
+kale_Page_067 &sect; 85. Words in <span class="san">o</span> and <span class="san">O</span>.  <span class="san">go</span> and <span class="san">glO</span> 
+kale_Page_068 <span class="section">Bases ending in consonants</span>
+kale_Page_068 &sect; 88. Bases in <span class="san">r</span>, <span class="san">l</span>, <span class="san">R</span>. <span class="san">kamal</span>
+kale_Page_069 &sect; 90. Bases in <span class="san">k</span>,<span class="san">g</span>,<span class="san">w</span>,<span class="san">q</span>,<span class="san">t</span>,<span class="san">d</span>,<span class="san">p</span>,<span class="san">b</span>
+kale_Page_069 &sect; 92. <span class="san">samiD</span>
+kale_Page_070 <span class="san">sarvak</span>, etc
+kale_Page_070 &sect; 93. Bases in <span class="san">c</span>,<span class="san">j</span>,<span class="san">S</span>,<span class="san">z</span>,<span class="san">h</span>
+kale_Page_071 &sect; 93. <span class="san">vAc</span> <span class="san">rAj</span>
+kale_Page_072 
+kale_Page_073 <span class="san">muh</span>
+kale_Page_074 &sect; 98. Irregular bases. <span class="san">turAsAh</span> 
+kale_Page_074 &sect; 99. <span class="san">viSvarAw</span> 
+kale_Page_074 &sect; 100. Root nouns in <span class="san">vAh</span> 
+kale_Page_075 &sect; 101. <span class="san">upAnah</span>
+kale_Page_075 &sect; 102. <span class="san">anaquh</span>
+kale_Page_075 &sect; 103. <span class="san">avayAj</span>, <span class="san">puroqAS</span>
+kale_Page_076 &sect; 104. Nouns from <span class="san">aYc</span>
+kale_Page_077 <span class="san">prAYc</span>, <span class="san">pratyaYc</span>. <span class="san">tiryaYc</span>
+kale_Page_078 
+kale_Page_079 <span class="section">Irregular bases</span>
+kale_Page_079 &sect; 105. <span class="san">kruYc</span>
+kale_Page_080 &sect; 105. <span class="san">Urj</span>
+kale_Page_080 &sect; 106. Nouns in <span class="san">m</span>. <span class="san">praSAm</span>
+kale_Page_080 &sect; 108. Nouns in <span class="san">s</span>. <span class="san">candramas</span>
+kale_Page_081 <span class="san">manas</span>, <span class="san">udarcis</span>, <span class="san">suvas</span>
+kale_Page_082 &sect; 110. <span class="san">BAs</span>. &sect; 112. Irregular bases
+kale_Page_083 &sect; 113. <span class="san">puMs</span>. &sect; 113. <span class="san">pipaWiz</span>.
+kale_Page_084 &sect; 115. Nouns in <span class="san">at</span>, <span class="san">mat</span>, and <span class="san">vat</span>. <span class="san">DImat</span>
+kale_Page_085 <span class="san">mahatat</span>
+kale_Page_085 &sect; 116. Participles ending in <span class="san">at</span>.
+kale_Page_086 <span class="san">Bavat</span>, <span class="san">dadat</span>
+kale_Page_087 &sect; 117. Nouns in <span class="san">an</span> and <span class="san">in</span>
+kale_Page_087 <span class="san">brahman</span>, <span class="san">rAjan</span>
+kale_Page_088 
+kale_Page_089 <span class="san">nAman</span>
+kale_Page_089 Irregular: &sect; 118. <span class="san">puzan</span>, <span class="san">vftrahan</span>
+kale_Page_090 &sect; 119. <span class="san">Svan</span>
+kale_Page_091 <span class="san">maGavan</span>, <span class="san">yuvan</span>
+kale_Page_091 &sect; 120. <span class="san">ahan</span>
+kale_Page_092 &sect; 121. <span class="san">arvan</span>
+kale_Page_092 &sect; 122. Words in <span class="san">in</span>
+kale_Page_093 <span class="san">karin</span>, <span class="san">daRqin</span>
+kale_Page_093 &sect; 123. Irregular bases. <span class="san">paTin</span>
+kale_Page_094 &sect; 124. Bases in <span class="san">vas</span>. <span class="san">vidvas</span>
+kale_Page_095 &sect; 125. Bases in <span class="san">yas</span>, <span class="san">Iyas</span>. <span class="san">Sreyas</span>
+kale_Page_096 <span class="section">Words of irregular declension</span>
+kale_Page_096 &sect; 126-8. <span class="san">asTi</span>, <span class="san">ap</span>, <span class="san">jarA</span>
+kale_Page_097  &sect; 129. <span class="san">dos</span>
+kale_Page_098 <span class="san">niSA</span>, <span class="san">sAnu</span>, <span class="san">pAda</span>
+kale_Page_099 <span class="san">danta</span>, <span class="san">nAsikA</span>, <span class="san">mAsa</span>, <span class="san">hfdaya</span>, <span class="san">asfj</span>
+kale_Page_100 <span class="san">yUza</span>, <span class="san">yakft</span>, <span class="san">Sakft</span>, <span class="san">udaka</span>, <span class="san">Asya</span>
+kale_Page_101 <span class="san">pftana</span>.
+kale_Page_101 &sect; 130. Suffixes <span class="san">tas</span>, <span class="san">tra</span>
+kale_Page_101 &sect; 131. Indeclineable nouns
+

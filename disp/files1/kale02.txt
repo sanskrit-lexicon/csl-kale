@@ -1,0 +1,37 @@
+kale_Page_026 II. Rules of Sandhi
+kale_Page_026 <span class="section">Svara-sandhi</span>
+kale_Page_026 &sect; 19 similar simple vowels
+kale_Page_027 &sect; 20 <span class="san">a</span> + simple vowel
+kale_Page_028 
+kale_Page_029 &sect; 21 <span class="san">a</span> plus diphthong
+kale_Page_030 
+kale_Page_031 &sect; 22 <span class="san">i</span> plus vowel
+kale_Page_032 &sect; 23 <span class="san">i</span> plus vowel (optional) 
+kale_Page_033 &sect; 24 diphthong plus vowel
+kale_Page_034 &sect; 25 diphthong plus <span class="san">a</span>
+kale_Page_034 &sect; 26 sandhi exceptions, <span class="san">pragfhya</span>
+kale_Page_035 sandhi exceptions, pluta vowels
+kale_Page_036 &sect; 27. particle <span class="san">u</span>
+kale_Page_036 <span class="section">Hal-sandhi</span>. &sect; 28. dental
+kale_Page_037 &sect; 29. dental plus cerebral sibilant
+kale_Page_037 &sect; 30. consonant plus nasal
+kale_Page_037 &sect; 31. dental plus <span class="san">l</span>
+kale_Page_038 &sect; 32. <span class="san">ud</span> plus <span class="san">sTA</span>
+kale_Page_038 &sect; 33. consonant plus <span class="san">h</span>
+kale_Page_038 &sect; 34. consonant plus hard consonant
+kale_Page_038 &sect; 35. consonant plus <span class="san">S</span>
+kale_Page_038 &sect; 36. <span class="san">m</span> at end of word
+kale_Page_039 &sect; 37. anusvara plus consonant
+kale_Page_039 &sect; 38. <span class="san">N</span> or <span class="san">R</span> plus sibilant
+kale_Page_040 &sect; 38. <span class="san">N</span> or <span class="san">n</span> plus sibilant or vowel
+kale_Page_040 &sect; 40. <span class="san">n</span> plus <span class="san">S</span>
+kale_Page_040 &sect; 41. <span class="san">n</span>  -> <span class="san">R</span>
+kale_Page_041 &sect; 42. <span class="san">s</span>  -> <span class="san">z</span>
+kale_Page_041 &sect; 43. <span class="san">m</span>
+kale_Page_042 &sect; 44. insert <span class="san">c</span> before <span class="san">C</span>
+kale_Page_042 <span class="section">Visarga-sandhi</span>.  &sect; 45. <span class="san">s</span>  -> <span class="san">H</span>
+kale_Page_043 &sect; 46. <span class="san">H</span> -> <span class="san">s</span>
+kale_Page_045 &sect; 47. <span class="san">aH</span> -> <span class="san">o</span>
+kale_Page_045 &sect; 48. <span class="san">AH</span> -> <span class="san">A</span>
+kale_Page_045 &sect; 49. vowel plus <span class="san">H</span> -> vowel plus <span class="san">r</span>
+kale_Page_046 &sect; 50. <span class="san">saH</span> -><span class="san">sa</span>

@@ -1,0 +1,23 @@
+kale_Page_208 <span class="san">tadDita</span> affixes
+kale_Page_209 <span class="section">miscellaneous affixes</span>
+kale_Page_210 
+kale_Page_211 
+kale_Page_212 
+kale_Page_213 
+kale_Page_214 
+kale_Page_215 
+kale_Page_216 
+kale_Page_217 
+kale_Page_218 
+kale_Page_219 
+kale_Page_220 
+kale_Page_221 
+kale_Page_222 
+kale_Page_223 <span class="section">Affixes showing possession</span>
+kale_Page_224 
+kale_Page_225 
+kale_Page_226 
+kale_Page_227 
+kale_Page_228 <span class="section">Affixes forming adverbs</span>
+kale_Page_229 
+kale_Page_230 <span class="section">Irregular adverbs of time</span>
