@@ -2,7 +2,7 @@
 // serveimg for Kale
 // 11-08-2019 ejf
 $filename = $_GET['file'];
-$target = $_GET['target'];
+//$target = $_GET['target'];
 /*
      $pagein=$_GET['page'];
      if (!$pagein) {$pagein = $argv[1];}
@@ -18,7 +18,7 @@ if (preg_match('/Page_([0-9][0-9][0-9])/',$filename,$matches)) {
  $pagenum = 0;
 }
 $pagemin = 1;
-$pagemax = 709;
+$pagemax = 736; //709;
 if ($pagenum > $pagemin) {
  $page = $pagenum - 1;
  $page = sprintf("%03d",$page);
