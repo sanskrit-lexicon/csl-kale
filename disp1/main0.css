@@ -1,0 +1,72 @@
+body {
+	color: black;
+	background-color: #DBE4ED; 
+	font-family: verdana,arial,helvetica,sansserif;
+	font-size: small;
+}
+
+h1 {
+	font-size: 24pt;
+}
+#unilogo {
+ float: left;
+}
+#shield {
+ float: right;
+}
+#find {
+ font-size: larger;
+ font-weight: bold;
+ margin-top: 15pt;
+ margin-left: 15pt;
+ color: maroon;
+}
+h2 {
+	font-size: larger;
+        clear: both;
+        color: maroon;
+ margin-bottom: 15pt;
+}
+
+h3 {
+	font-size: 18pt;
+	padding-left: 30pt;
+	padding-top: 20pt;
+}
+
+a:link {
+	color: #cc0000;
+}
+
+a:visited {
+        color: black;
+}
+
+a:hover {
+	color: #000033; 
+        cursor: pointer;
+}
+
+a:active {
+	color: #4876ff;
+}
+
+#png {
+ border-width: 10px;
+ border-style: solid;
+ border-color: #ff0000;
+}
+legend {
+ font-weight: bold;
+ font-size: larger;
+}
+label {
+ font-weight: normal;
+ float: left;
+}
+fieldset {
+ margin: 10px;
+}
+input {
+ float: right;
+}

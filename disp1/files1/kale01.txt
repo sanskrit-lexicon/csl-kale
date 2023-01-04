@@ -1,0 +1,19 @@
+kale_Page_015 I: Alphabet, &sect; 1.
+kale_Page_016 &sect; 2. Devanagari alphabet
+kale_Page_017 &sect; 3. Vowels
+kale_Page_018 &sect; 4. Consonants
+kale_Page_019 &sect; 5. Soft/hard consonants
+kale_Page_019 &sect; 6. Other Sanskrit sounds
+kale_Page_020 &sect; 7. Aspirates and unaspirates
+kale_Page_020 &sect; 8. Alphabet table
+kale_Page_021 &sect; 9. savarna letters
+kale_Page_021 &sect; 10. svara, vyanjana
+kale_Page_022 &sect; 11. syllable
+kale_Page_022 &sect; 12. vowel signs
+kale_Page_022 &sect; 12. compound consonants
+kale_Page_024 &sect; 13. punctuation
+kale_Page_024 &sect; 13. avagraha
+kale_Page_024 &sect; 14. prosodially long vowel
+kale_Page_024 &sect; 15. guna and vrddhi
+kale_Page_025 &sect; 16. semivowels
+kale_Page_025 &sect; 17. numerical figures

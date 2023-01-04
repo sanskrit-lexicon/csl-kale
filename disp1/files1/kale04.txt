@@ -1,0 +1,24 @@
+kale_Page_101 &sect; 132. pronouns
+kale_Page_102 <span class="section">Personal Pronouns</span>
+kale_Page_102 &sect; 133. <span class="san">asmad</span>, <span class="san">yuzmad</span>
+kale_Page_103 &sect; 134. short forms of <span class="san">asmad</span>, <span class="san">yuzmad</span>
+kale_Page_104 <span class="section">Demonstrative Pronouns</span>
+kale_Page_104 &sect; 135. <span class="san">tad</span>
+kale_Page_105 <span class="san">etad</span>
+kale_Page_106 <span class="san">idam</span>, <span class="san">adas</span>
+kale_Page_107 <span class="section">Relative Pronouns</span>
+kale_Page_108 &sect; 138. <span class="san">yad</span>
+kale_Page_108 <span class="section">Interrogative Pronouns</span>
+kale_Page_108 &sect; 139. <span class="san">kim</span>
+kale_Page_109 <span class="section">Reflexive Pronouns</span>
+kale_Page_109 <span class="section">Indefinite Pronouns</span>
+kale_Page_109 <span class="section">Correlative Pronouns</span>
+kale_Page_110 <span class="section">Reciprocal Pronouns</span>
+kale_Page_110 <span class="section">Possessive Pronouns</span>
+kale_Page_110 &sect; 146. <span class="san">asmat</span>, <span class="san">yuzmat</span>
+kale_Page_111 <span class="section">Pronominal Adjectives</span>
+kale_Page_111 &sect; 147. <span class="san">katara</span>
+kale_Page_112 <span class="san">sarva</span>
+kale_Page_113 
+kale_Page_114 <span class="section">Pronominal Adverbs</span>
+kale_Page_115 

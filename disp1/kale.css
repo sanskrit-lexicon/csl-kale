@@ -1,0 +1,86 @@
+#navigate {
+ position: absolute;
+ left: 5px;
+ top : 1px;
+ width: 310px;
+ height: 15%;
+ background-color: white;
+}
+#words {
+ position: absolute;
+ left: 5px;
+ top : 17%;
+ width: 310px;
+ height: 40%;
+ background-color: white;
+ overflow:auto;
+}
+#words1 {
+ position: absolute;
+ left: 5px;
+ top : 60%;
+ width: 310px;
+ height: 39%;
+ background-color: white;
+ overflow:auto;
+}
+
+#rightpane {
+ position: absolute;
+ left: 325px;
+ top : 1px;
+ right: 5px;
+ height: 97%;
+ background-color: white;
+ overflow:auto;
+}
+.prevpage {position: fixed; 
+  left: 330px;  /* some px more than the 'left' of 'rightpane' */
+  top: 5px;
+}
+span.nppage1 {
+  font-weight: bold;
+  font-size: 24pt;
+/* this is for ie. it gives firefox css error, but works fine otherwise */
+filter:alpha(opacity=30); 
+/* background-color: #DBE4ED;  a blue*/
+background-color: rgba(219,228,237,0.5); /* 0.0 = transparent, 1.0 = opaque  */
+}
+a.nppage:link {
+        text-decoration: none;
+}
+a.nppage:visited {
+        text-decoration: none;       
+}
+a.nppage:hover {
+	color: #FF0000;
+        text-decoration: none;
+        cursor: pointer;
+}
+
+
+}
+
+span.lplink:visited {
+/*
+	color: #36648b;
+*/
+        color: red;
+}
+span.lplink:hover {
+	background-color: #ffffcc;
+	color: #000033;
+        cursor: pointer;
+}
+
+span.lplink:active {
+	color: #4876ff;
+}
+
+.san {
+/* font-style: italic; */
+ color: #0000ff;
+}
+.section {
+ color: #ff0000;
+}

@@ -1,0 +1,18 @@
+kale_Page_005 00 Preliminary material
+kale_Page_015 01 I. Alphabet
+kale_Page_026 02 II. Rules of Sandhi
+kale_Page_046 03 III. Declension of nouns
+kale_Page_101 04 IV. Pronouns and their Declension
+kale_Page_116 05 V. Numerals and their Declension
+kale_Page_124 06 VI. Degree of Comparison
+kale_Page_127 07 VII. Compounds
+kale_Page_194 08 VIII. Formation of Feminine Bases
+kale_Page_208 09 IX. Secondary Nominal Bases
+kale_Page_230 10 X. Gender
+kale_Page_237 11 XI. Avyayas or Indeclinables
+kale_Page_252 12 XII. Conjugation of Verbs
+kale_Page_413 13 XIII. Parasmaipada / Atmanepada
+kale_Page_430 14 XIV. Verbal Derivatives
+kale_Page_482 15 XV. Syntax
+kale_Page_551 DK Appendix II: Dhatukosha
+kale_Page_710 PR Appendix I: Prosody
