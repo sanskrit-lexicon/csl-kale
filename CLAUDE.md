@@ -4,26 +4,43 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-**csl-kale** provides a web display of scanned pages from M.R. Kale's *Higher Sanskrit Grammar* (1894). It is linked from the Sanskrit Lexicon homepage and serves as a reference for Sanskrit grammatical rules cited in CDSL dictionary entries.
+**csl-kale** is a Sanskrit Lexicon **scanned-book** repository — part of the Cologne Digital Sanskrit Lexicon (CDSL) infrastructure.
 
-Two display implementations are provided:
-- **PHP version** (`disp/index.php`) — server-side, requires Apache/XAMPP
-- **JavaScript version** (`disp1/index.html`) — client-side, works without a server
+## Repo Category
 
-## Architecture
+`scanned-book` — see the [tooling runbook](https://github.com/sanskrit-lexicon/csl-observatory/blob/main/runbook/cologne-tooling-runbook.md) for category-specific conventions.
 
-| Directory/File | Purpose |
-|---|---|
-| `disp/` | PHP web application: `index.php` serves scanned page images |
-| `disp1/` | Pure JavaScript version: `index.html` + `main.js` serve images without a server |
-| `png/` | Scanned page images of Kale Higher Sanskrit Grammar |
+## GitHub Issue Conventions
 
-### URL parameter
+This repository uses the **Cologne tooling-repo taxonomy**. All issues must have:
+- **Exactly one type label** (9 options)
+- **Exactly one severity label** (4 levels)
+- **One milestone** (5 options)
 
-`disp/index.php?page=N` — display the Nth page (PHP version).
-`disp1/index.html#N` — display the Nth page (JS version).
+### Type Labels
+- `bug` — Code defect (wrong output, broken contract)
+- `feature` — Net-new capability
+- `enhancement` — Improvement to existing capability
+- `performance` — Speed, memory, throughput optimization
+- `tech-debt` — Refactoring, cleanup, dependency updates
+- `security` — CVE, auth issue, credential exposure
+- `documentation` — Prose docs, API docs, comments
+- `infrastructure` — CI/CD, deploy, data pipelines, build tooling
+- `question` — Research, proposals, open discussions
 
-## Dependencies
+### Severity Labels
+- `trivial` — Cosmetic, < 1 hour
+- `minor` — Single function/component
+- `major` — Multiple files, design decision
+- `critical` — Blocks users, data loss/security CVE
 
-- **PHP** (for `disp/`) — requires Apache/XAMPP
-- **JavaScript** browser (for `disp1/`) — no server needed
+### Milestones
+- **API Stability** — performance, security, regressions
+- **User Experience** — bugs, features, enhancements
+- **Data Quality** — data-pipeline issues, integrity
+- **Developer Experience** — tech-debt, infrastructure, docs
+- **Community** — questions, proposals, discussions
+
+## Cross-Repo Coordination
+
+The org-level project [Tooling Roadmap](https://github.com/orgs/sanskrit-lexicon/projects/9) tracks tool work across all repositories.
