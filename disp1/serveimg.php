@@ -33,14 +33,14 @@ print "<div class=\"prevpage\">\n";
 genDisplayFile("&lt;",$fileprev);
 genDisplayFile("&gt;",$filenext);
 print "</div>\n";
-print "<img src=\"$filename\" />";
+print "<img src=\"" . htmlspecialchars($filename, ENT_QUOTES) . "\" />";
 exit;
 
 function genDisplayFile($text,$file) {
  if ($file == '') {
   return;
  }
- $href ="serveimg.php?file=$file";
+ $href ="serveimg.php?file=" . urlencode($file);
  $a = "<a class=\"nppage\" onclick=\"displaylink('" . $href . "');\"><span class='nppage1'>$text</span></a>";
  print "$a\n";
 }
