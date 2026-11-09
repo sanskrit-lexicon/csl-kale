@@ -6,6 +6,7 @@ error_reporting(E_ALL & ~E_NOTICE );
   <head>
     <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8">
     <title>KALE Scan</title>
+<?php require_once(__DIR__ . "/og_meta.php"); echo og_meta_page("kale"); ?>
     <link rel="stylesheet" href="main0.css">
     <link rel="stylesheet" href="kale.css">
     <script type="text/javascript" src="ajax.js"> </script>
